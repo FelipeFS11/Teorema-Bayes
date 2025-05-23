@@ -1,7 +1,7 @@
 """
 Em uma escola, sabe-se que:
 45% dos alunos estudam regularmente para as provas.
-Entre os que estudam, 90% tiram nota acima de 7.
+Entre os que estudam, 90% tiram nota acima de 7. 
 Entre os que não estudam, apenas 20% tiram nota acima de 7.
 Pergunta:
 Um aluno tirou nota acima de 7. Qual é a probabilidade de ele ter estudado? E de não ter estudado?
